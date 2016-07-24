@@ -1,0 +1,21 @@
+{
+  "name": "mongoosedemo",
+  "version": "1.0.0",
+  "description": "Learning mongoose driver",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "mongoose",
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "Amit Patil",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.6"
+  }
+}
